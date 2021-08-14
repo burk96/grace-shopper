@@ -38,7 +38,7 @@ const Home = () => {
         activeIndex={index}
         onSelect={handleSelect}
         style={{
-          width: '100%',
+          height: '50rem',
         }}
         touch="true"
       >
